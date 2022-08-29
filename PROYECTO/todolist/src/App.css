@@ -1,0 +1,13 @@
+body{
+  height: 70vh;
+  overflow-x: auto;
+  overflow-y:scroll;
+  padding: 2e;
+  background-image: url(../src/gif-de-fondo-10.gif);
+  color: darkred;
+}
+
+.container{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style:italic;
+}
